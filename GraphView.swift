@@ -1,9 +1,8 @@
 //
 //  GraphView.swift
-//  GraphTest
 //
-//  Created by PanaCloud on 6/24/15.
-//  Copyright (c) 2015 PanaCloud. All rights reserved.
+//  Created by Saad Umar on 6/24/15.
+//  Copyright (c) 2015 Saad Umar. All rights reserved.
 //
 
 import UIKit
