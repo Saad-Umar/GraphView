@@ -1,5 +1,5 @@
 # GraphView
-Subclassed and customized UIView to represent a graphView, just like the iOS 'Stocks' App. 
+Subclassed and customized UIView to represent a graphView, somewhat like the iOS 'Stocks' App Graph representation. It's animatable too!
 
 
 
